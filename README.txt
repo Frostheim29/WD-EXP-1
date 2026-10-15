@@ -33,4 +33,4 @@ IMPORTANT:
    git push
 5. To publish: GitHub repository > Settings > Pages > Deploy from a branch > main > /(root) > Save.
 6. Use the actual Pages URL displayed by GitHub after deployment. Expected format:
-   https://frostheim29.github.io/web-development-exp1/
+   https://frostheim29.github.io/WD-EXP-1/
